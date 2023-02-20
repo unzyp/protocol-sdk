@@ -1,6 +1,6 @@
 {
   "name": "unzyp-protocol-sdk",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Unzyp Lab protocol web3 SDK",
   "main": "dist/index.js",
   "scripts": {
