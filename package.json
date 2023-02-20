@@ -1,7 +1,7 @@
 {
-  "name": "unzyp-protocol-sdk",
+  "name": "@unzyp/web3-sdk",
   "version": "0.1.0",
-  "description": "Unzyp Lab protocol web3 SDK",
+  "description": "Unzyp Lab web3 protocol SDK",
   "main": "dist/index.js",
   "scripts": {
     "commit": "git-cz",
